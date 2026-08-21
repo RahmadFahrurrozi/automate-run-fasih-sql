@@ -1,6 +1,4 @@
-# FASIH Dashboard SQL Lab Scraper (SE2026)
-
-## Automasi scraping data Superset SQL Lab di FASIH BPS (`fasih-dashboard.bps.go.id`) menggunakan Selenium dengan metode **Pure UI-Clicking** via Chrome Remote Debugging.
+# FASIH Dashboard SQL Lab (SE2026)
 
 ## Prasyarat (Prerequisites)
 
