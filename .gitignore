@@ -1,0 +1,25 @@
+# Environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Output & Downloads
+output/
+*.xlsx
+*.csv
+*.json
+
+# Chrome Profile / Selenium data
+chrome_profile/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
